@@ -1,0 +1,33 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color:darkblue;
+    font-size: 4em;
+}
+
+h2 {
+    color:crimson;
+    font-size: 3em;
+}
+
+p {
+    font-size: 1em;
+}
+
+li {
+    font-size: 1em;
+}
+
+.para1 {
+    color:fuchsia
+}
+
+.para2 {
+    color:darksalmon
+}
+
+.fred {
+    color:red
+}
