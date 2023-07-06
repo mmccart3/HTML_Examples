@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Roboto:wght@100&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Montserrat:wght@300&display=swap');
 
 * {
     box-sizing: border-box;
@@ -20,6 +21,7 @@ body {
 }
 
 h1 {
+    font-family: 'Montserrat', sans-serif;
     color:#b54749;
     font-size: 4em;
     border: pink 2px solid;
@@ -71,4 +73,18 @@ li {
     width: 100px;
     margin-right: 20px;
     text-align: center;
+}
+
+.thisgroup {
+    background-color: bisque;
+    color:cornflowerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#special_text {
+    color:chartreuse;
+    font-size: 2em;
+    background-color: blueviolet;
+    border: 4px blue solid;
+    border-radius: 15px;
 }

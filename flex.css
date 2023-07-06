@@ -17,10 +17,26 @@
 
 .one {
     background-color: cadetblue;
-    flex: 1;
+    /* flex: 1; */
 }
 
 .two {
     background-color: red;
-    flex:2;
+    /* flex:2; */
+}
+
+.three {
+    background-color: chocolate;
+}
+
+.four {
+    background-color: darkblue;
+}
+
+.five {
+    background-color: darkgrey;
+}
+
+.six {
+    background-color: brown;
 }
